@@ -1,0 +1,11 @@
+# This is an Asset Catalog Definition file for Blender.
+#
+# Empty lines and lines starting with `#` will be ignored.
+# The first non-ignored line should be the version indicator.
+# Other lines are of the format "UUID:catalog/path/for/assets:simple catalog name"
+
+VERSION 1
+
+ee98cb2c-8827-48cf-889b-6fe3c7012c1e:🐺💀 Vargrim Malakor Rex Nodes:🐺💀 Vargrim Malakor Rex Nodes
+28c9eb59-f3e0-4e2f-b571-3fd921d981f1:🐺💀 Vargrim Malakor Rex Nodes/🐺 Rex Compositors:🐺💀 Vargrim Malakor Rex Nodes-🐺 Rex Compositors
+c4de53bc-0258-435e-a4d7-42f6fd173cc5:🐺💀 Vargrim Malakor Rex Nodes/🐺 Rex Shaders:🐺💀 Vargrim Malakor Rex Nodes-🐺 Rex Shaders

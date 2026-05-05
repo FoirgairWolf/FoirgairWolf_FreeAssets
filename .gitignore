@@ -1,1 +1,4 @@
 wolf-push.bat
+*.blend[0-9]
+*.*~
+Substance Materials
